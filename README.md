@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, person! How are you? I believe you fine right now. 👋
 
-<!--
-**Sanarielsen/Sanarielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actually i'm working a project named SAMP for brands and patents for my client.
 
-Here are some ideas to get you started:
+Today i'm using the following technologys in my career:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. HTML
+2. CSS
+3. Javascript
+4. Typescript
+5. React
+6. PHP
+7. Java
+
+I'm looking for collaborate as frontend developer, but, i don't have a problem to migrate a backend developer if necessary.
+
+Nowadays, i'm looking for a new challenge for learn about development and acquire experience in the area.
+
+Just call me Samuel, or Sanarielsen, or Sana, or Samu. You choose how these nicknames you call me :)
+
+I'm my daily routine, i try to write a book to relax more about my job. Comming soon you have a new notice about it XD
