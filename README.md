@@ -11,6 +11,9 @@ Today i'm using the following technologys in my career:
 5. React
 6. PHP
 7. Java
+8. MySql
+9. SQLServer
+10. C
 
 I'm looking for collaborate as frontend developer, but, i don't have a problem to migrate a backend developer if necessary.
 
