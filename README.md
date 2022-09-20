@@ -1,8 +1,8 @@
-### Hi, person! How are you? I believe you fine right now. 👋
+### Hi, person! How are you? I hope you fine 👋
 
-Actually I'm working a project named SAMP for brands and patents for my client.
+Actually I'm working on a project named SAMP for brands and patents for my client.
 
-Today I'm using the following technologys in my career:
+Currently I'm using the following tech:
 
 1. HTML
 2. CSS
@@ -15,10 +15,10 @@ Today I'm using the following technologys in my career:
 9. SQLServer
 10. C
 
-I'm looking for collaborate as frontend developer, but, I don't have a problem to migrate a backend developer if necessary.
+I'm looking to collaborate as frontend developer, but I don't have a problem to migrate to backend if necessary.
 
-Nowadays, I'm looking for a new challenge for learn about development and acquire experience in the area.
+Nowadays, I'm looking for a new challenge to learn about development and acquire experience in the area.
 
 Just call me Samuel, or Sanarielsen, or Sana, or Samu. You choose how these nicknames you call me :)
 
-I'm my daily routine, I try to write a book to relax more about my job. Comming soon you have a new notice about it XD
+In my free time, I am working on book to relax. Hopefully soon we will have a news notice about it XD
