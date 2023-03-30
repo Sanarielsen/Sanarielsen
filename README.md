@@ -9,7 +9,7 @@ Web developer
 * ✉️  You can contact me at [sanarielsen.dev@gmail.com](mailto:sanarielsen.dev@gmail.com)
 * 🚀  I'm currently working on [Loop Brazil](http://loopbrasil.com)
 * 🧠  I'm learning Front and tecnologies (React)
-* ⚡  I'm looking to collaborate as frontend developer, but I don't have a problem to migrate to backend if necessary. Nowadays, I'm looking for a new challenge to learn about development and acquire experience in the area.
+* ⚡  I'm looking to collaborate as frontend developer, if you have a project and you need a software developer, i searching a project to developer together with a team.
 
 <a href="https://www.twitter.com/Sanarielsen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sanarielsen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
