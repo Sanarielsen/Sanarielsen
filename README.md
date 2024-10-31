@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-* 🌍  I'm based in Brazil, São Paulo - Itaquaquecetuba
+* 🌍  I'm based in Brazil, São Paulo
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/samuelhenriquecarneiro/)
 * ✉️  You can contact me at [sanarielsen.dev@gmail.com](mailto:sanarielsen.dev@gmail.com)
-* 🧠  I'm Front-end with focus in javascript (React) and I have experience too with PHP (Symfony)
+* 🧠  I'm Front-end with focus in javascript (React). Currently, I work with SQLServer and C# in FCamara
 * ⚡  I'm looking to collaborate as frontend developer, if you have a project and you need a software developer, I searching a project to developer together with a team.
 
 <a href="https://www.twitter.com/Sanarielsen" target="_blank" rel="noreferrer"><img
