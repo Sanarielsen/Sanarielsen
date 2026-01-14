@@ -7,7 +7,7 @@ Web developer
 * 🌍  I'm based in Brazil, São Paulo
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/sanarielsen/)
 * ✉️  You can contact me at [sanarielsen.dev@gmail.com](mailto:sanarielsen.dev@gmail.com)
-* 🧠  I'm Front-end with focus in javascript (React), but I have experience with Node and PHP, mainly with API's. Currently, I working an FCamara Company using SQLServer and C# between my main skills.
+* 🧠  I'm Front-end with focus in javascript (React), but I have experience with Node and PHP, mainly with API's.
 * ⚡  I'm looking to collaborate as fullstack developer, if you have a project and you need a software developer/engineer, I searching a project to developer together with a team.
 
 <a href="https://www.twitter.com/Sanarielsen" target="_blank" rel="noreferrer"><img
